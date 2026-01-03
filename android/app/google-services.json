@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083845187301",
+    "project_id": "allahualam-74519",
+    "storage_bucket": "allahualam-74519.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083845187301:android:533617799cd88c7978260c",
+        "android_client_info": {
+          "package_name": "com.sa.allahualam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKfwYU3DRuvolSD2X2Dw0uRxpYT-8DCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
